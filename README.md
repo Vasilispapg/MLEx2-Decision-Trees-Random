@@ -2,7 +2,7 @@
 # ML Master Class Exercise 2
 
 ## Overview
-This repository contains a series of exercises completed as part of an AI Master Class. The exercises cover various machine learning techniques, including Logistic Regression, Instance-Based Learning, Random Forests, and more. Each exercise demonstrates the application of these techniques using Python and relevant libraries like `pandas`, `sklearn`, and `matplotlib`.
+This repository contains a series of exercises completed as part of an ML Class. The exercises cover various machine learning techniques, including Logistic Regression, Instance-Based Learning, Random Forests, and more. Each exercise demonstrates the application of these techniques using Python and relevant libraries like `pandas`, `sklearn`, and `matplotlib`.
 
 ## Exercises Description
 
